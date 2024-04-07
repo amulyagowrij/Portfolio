@@ -1,8 +1,9 @@
 title: Amulya Gowri Jagadeesh
 author: Amulya
 email: amulyagowrij@gmail.com
-description: > Summary
-
+description: > # this means to ignore newlines until "twitter_username:"
+  Amulya Gowri J Summary Text.
+  
 # social links
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -11,7 +12,7 @@ rss: rss
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: https://www.linkedin.com/in/amulyagowrij/
+linkedin_username: amulyagowrij
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
