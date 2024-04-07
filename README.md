@@ -1,19 +1,17 @@
-# Portfolio
+# Data Scientist
 
-## Data Scientist
-
-### Education
+## Education
 University of Surrey
 -Details
 
-### Work Experience
+## Work Experience
 Incture Technologies Project 1
 --Description
 
 Incture Technologies Project 2
 --Description
 
-### Projects
+## Projects
 Project 1
 -Description
 
